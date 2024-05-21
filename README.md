@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋 </h1>
 <h3 align="left">I am a passionate developer from India and this is my place where I occasionally break things 😄.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praduman20&label=Profile%20views&color=0e75b6&style=flat" alt="praduman20" /> </p>
 
