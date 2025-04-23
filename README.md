@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praduman20&label=Profile%20views&color=0e75b6&style=flat" alt="praduman20" /> </p>
 
-- 🔭 I’m currently working as a **Salesforce developer in Accenture**
+- 🔭 I’m currently working as a **Frontend developer**
 
 - 🌱 I’m currently learning **Typescript and system design**
 
